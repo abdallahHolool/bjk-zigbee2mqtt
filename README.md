@@ -1,6 +1,6 @@
 # Zigbee2MQTT - Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 Custom Converter
 
-[![Zigbee2MQTT](https://img.shields.io/badge/Zigbee2MQTT-Compatible-yellow.svg)](https://zigbee2mqtt.io/)
+[![Zigbee2MQTT](https://img.shields.io/badge/Zigbee2MQTT-Compatible-gold.svg)](https://zigbee2mqtt.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-darkred.svg)](https://opensource.org/licenses/MIT)
 
 Custom external converter for Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 mmWave Presence Sensor with LD2410.
