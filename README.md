@@ -1,6 +1,6 @@
-# Zigbee2MQTT - Moes/Linptech ES1ZZ Custom Converter
+# Zigbee2MQTT - Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 Custom Converter
 
-Custom external converter for Moes/Linptech ES1ZZ(TY) mmWave Presence Sensor with LD2410.
+Custom external converter for Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 mmWave Presence Sensor with LD2410.
 
 ## What It Does
 
@@ -24,7 +24,7 @@ This makes the distance reading more intuitive and cleaner for automations and d
 ## Requirements
 
 - Zigbee2MQTT 1.30.0+
-- Moes/Linptech ES1ZZ(TY) with manufacturer code: `_TZ3218_awarhusb` or `_TZ3218_t9ynfz4x`
+- Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 with manufacturer code: `_TZ3218_awarhusb` or `_TZ3218_t9ynfz4x`
 
 ## Verification
 
