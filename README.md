@@ -1,4 +1,4 @@
-# Zigbee2MQTT - Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 Custom Converter
+# Zigbee2MQTT - Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 Custom External Converter
 
 [![Zigbee2MQTT](https://img.shields.io/badge/Zigbee2MQTT-Compatible-gold.svg)](https://zigbee2mqtt.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-darkred.svg)](https://opensource.org/licenses/MIT)
