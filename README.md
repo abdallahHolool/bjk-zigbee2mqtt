@@ -7,7 +7,7 @@ Custom external converter for Linptech ES1ZZ(TY) / Moes ZSS-LP-HP02 mmWave Prese
 
 ## What It Does
 
-Modifies the default behavior of the LD2410 sensor where `target_distance` retains its last value even when presence is no longer detected.
+Modifies the default behavior of the **LD2410** sensor where `target_distance` retains its last value even when presence is no longer detected.
 
 **Modified Behavior:**
 - ✅ `occupancy: true` → `target_distance` shows actual distance
